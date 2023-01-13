@@ -4,6 +4,7 @@ export default defineConfig({
   title: 'xbendan',
   description: 'Just playing around.',
   lastUpdated: true,
+  base: '/docs/',
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/AeCode-call/docs/blob/master/docs/:path',
