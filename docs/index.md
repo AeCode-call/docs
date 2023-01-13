@@ -11,10 +11,10 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /guide/getting-started
+      link: /myspace/
     - theme: alt
       text: GitHub
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/AeCode-call/docs
 
 features:
   - title: "Vite: 无可比拟的开发体验"
